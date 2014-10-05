@@ -222,7 +222,7 @@ INSERT INTO `tb_cities` (`id`, `name`) VALUES
 (195, 'Castletownshend'),
 (196, 'Causeway'),
 (197, 'Cavan Town'),
-(198, 'Ceannanus MÃ³r (formerly Kells) Town'),
+(198, 'Ceannanus Mór (formerly Kells) Town'),
 (199, 'Celbridge'),
 (200, 'Charlestown-Bellahy'),
 (201, 'Cheekpoint'),
